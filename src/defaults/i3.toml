@@ -1,0 +1,4 @@
+name = 'i3'
+dotfiles = [
+{ name = 'config', possible_paths = ['$XDG_CONFIG_HOME/i3/config', '~/.i3/config', '/etc/i3/config'] } 
+] 
